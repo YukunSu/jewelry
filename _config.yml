@@ -18,12 +18,12 @@ owner:
   facebook:       
   github:         
   stackexchange:  
-  linkedin: https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button    
+  linkedin: https://www.linkedin.com/profile/preview?locale=en_US 
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +YuKun Su
+  google_plus:    118383229570254213577
 
 # Background image to be tiled on all pages
 background: 
