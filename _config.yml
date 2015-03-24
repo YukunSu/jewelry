@@ -8,7 +8,7 @@ words_per_minute: 150
 url: http://yukunsu.github.io/myhome/
 
 # Owner/author information
-owner: YuKun
+owner:
   name:           YuKun
   avatar:         photo.jpg
   bio:            "Computer Engineer from McGill University"
