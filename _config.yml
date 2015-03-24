@@ -1,24 +1,24 @@
-title:            SKY
-description:      Hello World!
-disqus_shortname: hpstrtheme
+title:            Castle in the Sky
+description:      Fly here with your invisible wings!
+disqus_shortname: YuKun
 reading_time:     true
-words_per_minute: 200
+words_per_minute: 150
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: http://yukunsu.github.io/myhome/
 
 # Owner/author information
-owner:
+owner: YuKun
   name:           YuKun
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  avatar:         photo.jpg
+  bio:            "Computer Engineer from McGill University"
+  email:          suyukun1989@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
   github:         
   stackexchange:  
-  linkedin:       
+  linkedin: https://www.linkedin.com/profile/view?id=361052255&trk=nav_responsive_tab_profile_pic      
   instagram:      
   flickr:         
   tumblr:         
